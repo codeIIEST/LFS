@@ -24,6 +24,7 @@ Resources
 
 ### video
 - [YouTube channel of Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA) - one of my fav source of knowledge
+- [Another Good Channel](https://www.youtube.com/watch?v=YHFzr-akOas&list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As) - Master Linux Terminal
 
 ### building linux
 - [Build yourself a Linux](https://github.com/MichielDerhaeg/build-linux)
